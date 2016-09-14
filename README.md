@@ -10,7 +10,7 @@
 * http://www.digitalpreservation.gov/formats/fdd/fdd000236.shtml - WARC file format
 
 ## வலை ஊர்தல், ஆவணகப்படுத்தலுக்கான தரவிறக்கம் (Web crawling and archival downloading) 
-* https://github.com/web-archive-group/heritrix-walkthrough/blob/master/walkthrough/lessonplan.md - Heritrix ஐ Vagrant ஆக நிறுவி WARC கோப்புக்களை உருவாக்க முடியும்
+* https://github.com/web-archive-group/heritrix-walkthrough/blob/master/walkthrough/lessonplan.md - Heritrix ஐ Vagrant ஊடாக  நிறுவி WARC கோப்புக்களை உருவாக்க முடியும்
 * https://people.emich.edu/csperlic/big_data/heritrix_quickstart/  பின்பற்றி Heritrix இன் முதன்மை அமைவடிவுக் கோப்பான crawler-beans.cxml configure செய்ய முடியும்.
 
 ## காட்சிப்படுத்தல்/மீட்பொலித்தல் (Playback)
